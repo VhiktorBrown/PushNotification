@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PushNotification</string>
+    <string name="expanded_notification_title">Restaurants near you</string>
+    <string name="expanded_notification_info">We\'ve found you some amazing restaurants close to you. Explore them now!</string>
+    <string name="channel_name">Follow Notification</string>
+    <string name="channel_description">Notifications for people that follow you.</string>
+
+</resources>
